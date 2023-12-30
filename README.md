@@ -1,5 +1,5 @@
 
-<a href="https://www.teodorpopa.ro"><img src="https://raw.githubusercontent.com/teodorpopa/teodorpopa/main/assets/teo.jpg"></a>
+<a href="https://www.teodorpopa.ro"><img align="center" src="https://raw.githubusercontent.com/teodorpopa/teodorpopa/main/assets/teo.jpg"></a>
 
 <h3 align="center">A software engineer from Romania</h3>
 
@@ -35,5 +35,5 @@ These are some of the technologies that I use or have worked on in the past:
 
 ![Teo's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teodorpopa&theme=dracula)
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teodorpopa&theme=dracula" />
+![Teo's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teodorpopa&theme=dracula)
 
