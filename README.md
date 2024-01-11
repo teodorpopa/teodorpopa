@@ -36,4 +36,3 @@ These are some of the technologies that I use or have worked on in the past:
 ![Teo's GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teodorpopa&theme=dracula)
 
 ![Teo's GitHub languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=teodorpopa&theme=dracula)
-
